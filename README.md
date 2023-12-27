@@ -1,2 +1,2 @@
-# myweb-clone
- clone
+# myweb
+ web
